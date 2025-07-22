@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn
+requests
+google-cloud-texttospeech
+pillow
+pydub

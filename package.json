@@ -1,0 +1,19 @@
+{
+  "name": "video-text-overlay-fixed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^6.2.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "fs-extra": "^11.3.0",
+    "gtts": "^0.2.1"
+  }
+}

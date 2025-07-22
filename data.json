@@ -1,0 +1,17 @@
+[
+  {
+    "type": "video",
+    "path": "assets/video1.mp4",
+    "text": "नमस्ते! यह पहली स्लाइड है।"
+  },
+  {
+    "type": "video",
+    "path": "assets/video2.mp4",
+    "text": "यह दूसरी अद्भुत स्लाइड है।"
+  },
+  {
+    "type": "video",
+    "path": "assets/video3.mp4",
+    "text": "अब देखते हैं अंतिम स्लाइड।"
+  }
+]
